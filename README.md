@@ -2,7 +2,7 @@
 
 ![Gemini Clone Preview](https://github.com/user-attachments/assets/d1905339-414d-4d7b-af64-356b14417710)
 
-Category:- "Website,Api, React, Hook, CSS"
+Category:- "Website,Api, React, Hook, CSS,Top"
 
 🚀 **Live Demo:** [Gemini Clone](https://igeminiclone.netlify.app/)  
 💻 **Source Code:** [GitHub Repository](https://github.com/Praveenkr398/GeminiCloneAPI)
