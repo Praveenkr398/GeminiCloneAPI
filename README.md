@@ -2,6 +2,8 @@
 
 ![Gemini Clone Preview](https://github.com/user-attachments/assets/d1905339-414d-4d7b-af64-356b14417710)
 
+Category:- "Website,Api, React, Hook, CSS"
+
 🚀 **Live Demo:** [Gemini Clone](https://igeminiclone.netlify.app/)  
 💻 **Source Code:** [GitHub Repository](https://github.com/Praveenkr398/GeminiCloneAPI)
 
@@ -47,9 +49,6 @@ Gemini Clone is a fully responsive, AI-powered chatbot application built using *
 - The **Gemini API** processes the input and returns an AI-generated response.
 - Click on **New Chat** to start a fresh conversation.
 - View **recent chats** in the sidebar for easy access to previous conversations.
-
-## 📸 Screenshots
-Coming soon...
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
