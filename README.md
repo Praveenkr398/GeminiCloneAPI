@@ -1,6 +1,6 @@
 # Gemini Clone
 
-![Gemini Clone Preview](https://github.com/user-attachments/assets/d1905339-414d-4d7b-af64-356b14417710)
+![](https://github.com/user-attachments/assets/bee167da-8ed6-4604-adb6-c4a1c9fd8277)
 
 Category:- "Website,Api, React, Hook, CSS,Top"
 
@@ -9,6 +9,7 @@ Category:- "Website,Api, React, Hook, CSS,Top"
 
 ## 📌 Overview
 Gemini Clone is a fully responsive, AI-powered chatbot application built using **React.js** and styled with **pure CSS**. It allows users to interact with the **Gemini API**, send prompts, and receive AI-generated responses in real-time.
+
 
 ## ✨ Features
 - **Single Page Application (SPA)** with a seamless user experience
